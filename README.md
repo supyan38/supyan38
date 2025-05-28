@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Supyan!
 
-<!--
-**supyan38/supyan38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about **UI/UX** and **Front-End Web Development**.  
+🎨 My main skill is **design**, and I enjoy transforming ideas into beautiful and user-friendly interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-supyan/)
+- ✉️ muhammadsupyan38@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔧 Design Tools: Figma, Adobe XD
+- 💻 Front-End: HTML, CSS, JavaScript
+- 📦 Version Control: Git, GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Supyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-supyan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-supyan&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=muhammad-supyan&color=blue&style=flat)
+
+---
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
